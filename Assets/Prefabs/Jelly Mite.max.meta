@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 3449b01a378e9514cbade41feab09c88
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone002
+    100002: Bone003
+    100004: Bone004
+    100006: Bone005
+    100008: Bone007
+    100010: Bone008
+    100012: Bone009
+    100014: Bone010
+    100016: Bone011
+    100018: Bone012
+    100020: Bone013
+    100022: Bone014
+    100024: Bone015
+    100026: Bone016
+    100028: Bone017
+    100030: Bone018
+    100032: Bone019
+    100034: Bone020
+    100036: Bone021
+    100038: Bone022
+    100040: Bone023
+    100042: Bone024
+    100044: Bone025
+    100046: Bone026
+    100048: Bone027
+    100050: Bone028
+    100052: Bone029
+    100054: Bone030
+    100056: Bone031
+    100058: Bone032
+    100060: Bone033
+    100062: Bone035
+    100064: Bone036
+    100066: Bottom_Left_Eye
+    100068: Bottom_Right_Eye
+    100070: Circle001
+    100072: Circle002
+    100074: Circle003
+    100076: Circle004
+    100078: Circle005
+    100080: Circle006
+    100082: Cylinder001
+    100084: Cylinder002
+    100086: Cylinder003
+    100088: Cylinder004
+    100090: Cylinder005
+    100092: Cylinder006
+    100094: Cylinder007
+    100096: Cylinder008
+    100098: Cylinder009
+    100100: Cylinder010
+    100102: 'Front Leg Left '
+    100104: Front Leg Left 001
+    100106: Front Leg Left 002
+    100108: Front Leg Left 003
+    100110: Front Leg Left 004
+    100112: Front Leg Right
+    100114: Front Leg Right001
+    100116: Front Leg Right002
+    100118: Front Leg Right003
+    100120: Front Leg Right004
+    100122: Jellymite_Body
+    100124: Middle_Left_Eye
+    100126: Middle_Right_Eye
+    100128: //RootNode
+    100130: Top_Left_Eye
+    100132: Top_Right_Eye
+    400000: Bone002
+    400002: Bone003
+    400004: Bone004
+    400006: Bone005
+    400008: Bone007
+    400010: Bone008
+    400012: Bone009
+    400014: Bone010
+    400016: Bone011
+    400018: Bone012
+    400020: Bone013
+    400022: Bone014
+    400024: Bone015
+    400026: Bone016
+    400028: Bone017
+    400030: Bone018
+    400032: Bone019
+    400034: Bone020
+    400036: Bone021
+    400038: Bone022
+    400040: Bone023
+    400042: Bone024
+    400044: Bone025
+    400046: Bone026
+    400048: Bone027
+    400050: Bone028
+    400052: Bone029
+    400054: Bone030
+    400056: Bone031
+    400058: Bone032
+    400060: Bone033
+    400062: Bone035
+    400064: Bone036
+    400066: Bottom_Left_Eye
+    400068: Bottom_Right_Eye
+    400070: Circle001
+    400072: Circle002
+    400074: Circle003
+    400076: Circle004
+    400078: Circle005
+    400080: Circle006
+    400082: Cylinder001
+    400084: Cylinder002
+    400086: Cylinder003
+    400088: Cylinder004
+    400090: Cylinder005
+    400092: Cylinder006
+    400094: Cylinder007
+    400096: Cylinder008
+    400098: Cylinder009
+    400100: Cylinder010
+    400102: 'Front Leg Left '
+    400104: Front Leg Left 001
+    400106: Front Leg Left 002
+    400108: Front Leg Left 003
+    400110: Front Leg Left 004
+    400112: Front Leg Right
+    400114: Front Leg Right001
+    400116: Front Leg Right002
+    400118: Front Leg Right003
+    400120: Front Leg Right004
+    400122: Jellymite_Body
+    400124: Middle_Left_Eye
+    400126: Middle_Right_Eye
+    400128: //RootNode
+    400130: Top_Left_Eye
+    400132: Top_Right_Eye
+    2300000: Bottom_Left_Eye
+    2300002: Bottom_Right_Eye
+    2300004: Middle_Left_Eye
+    2300006: Middle_Right_Eye
+    2300008: Top_Left_Eye
+    2300010: Top_Right_Eye
+    3300000: Bottom_Left_Eye
+    3300002: Bottom_Right_Eye
+    3300004: Middle_Left_Eye
+    3300006: Middle_Right_Eye
+    3300008: Top_Left_Eye
+    3300010: Top_Right_Eye
+    4300000: Top_Left_Eye
+    4300002: Middle_Left_Eye
+    4300004: Bottom_Left_Eye
+    4300006: Top_Right_Eye
+    4300008: Middle_Right_Eye
+    4300010: Bottom_Right_Eye
+    4300012: Jellymite_Body
+    4300014: Cylinder001
+    4300016: Cylinder002
+    4300018: Cylinder003
+    4300020: Cylinder004
+    4300022: Cylinder005
+    4300024: Cylinder006
+    4300026: Cylinder007
+    4300028: Cylinder008
+    4300030: Cylinder009
+    4300032: Cylinder010
+    9500000: //RootNode
+    13700000: Cylinder001
+    13700002: Cylinder002
+    13700004: Cylinder003
+    13700006: Cylinder004
+    13700008: Cylinder005
+    13700010: Cylinder006
+    13700012: Cylinder007
+    13700014: Cylinder008
+    13700016: Cylinder009
+    13700018: Cylinder010
+    13700020: Jellymite_Body
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

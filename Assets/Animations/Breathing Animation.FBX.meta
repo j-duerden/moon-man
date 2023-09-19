@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 7e219cb139e04904687f97e6089e4c6a
+timeCreated: 1484910582
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone002
+    100002: Bone003
+    100004: Bone004
+    100006: Bone005
+    100008: Bone007
+    100010: Bone008
+    100012: Bone009
+    100014: Bone010
+    100016: Bone011
+    100018: Bone012
+    100020: Bone013
+    100022: Bone014
+    100024: Bone015
+    100026: Bone016
+    100028: Bone017
+    100030: Bone018
+    100032: Bone019
+    100034: Bone020
+    100036: Bone021
+    100038: Bone022
+    100040: Bone023
+    100042: Bone024
+    100044: Bone025
+    100046: Bone026
+    100048: Bone027
+    100050: Bone028
+    100052: Bone029
+    100054: Bone030
+    100056: Bone031
+    100058: Bone032
+    100060: Bone033
+    100062: Bone035
+    100064: Bone036
+    100066: Bottom_Left_Eye
+    100068: Bottom_Right_Eye
+    100070: //RootNode
+    100072: Circle001
+    100074: Circle002
+    100076: Circle003
+    100078: Circle004
+    100080: Circle005
+    100082: Circle006
+    100084: Cylinder001
+    100086: Cylinder002
+    100088: Cylinder003
+    100090: Cylinder004
+    100092: Cylinder005
+    100094: Cylinder006
+    100096: Cylinder007
+    100098: Cylinder008
+    100100: Cylinder009
+    100102: Cylinder010
+    100104: 'Front Leg Left '
+    100106: Front Leg Left 001
+    100108: Front Leg Left 002
+    100110: Front Leg Left 003
+    100112: Front Leg Left 004
+    100114: Front Leg Right
+    100116: Front Leg Right001
+    100118: Front Leg Right002
+    100120: Front Leg Right003
+    100122: Front Leg Right004
+    100124: Jellymite_Body
+    100126: Middle_Left_Eye
+    100128: Middle_Right_Eye
+    100130: Top_Left_Eye
+    100132: Top_Right_Eye
+    400000: Bone002
+    400002: Bone003
+    400004: Bone004
+    400006: Bone005
+    400008: Bone007
+    400010: Bone008
+    400012: Bone009
+    400014: Bone010
+    400016: Bone011
+    400018: Bone012
+    400020: Bone013
+    400022: Bone014
+    400024: Bone015
+    400026: Bone016
+    400028: Bone017
+    400030: Bone018
+    400032: Bone019
+    400034: Bone020
+    400036: Bone021
+    400038: Bone022
+    400040: Bone023
+    400042: Bone024
+    400044: Bone025
+    400046: Bone026
+    400048: Bone027
+    400050: Bone028
+    400052: Bone029
+    400054: Bone030
+    400056: Bone031
+    400058: Bone032
+    400060: Bone033
+    400062: Bone035
+    400064: Bone036
+    400066: Bottom_Left_Eye
+    400068: Bottom_Right_Eye
+    400070: //RootNode
+    400072: Circle001
+    400074: Circle002
+    400076: Circle003
+    400078: Circle004
+    400080: Circle005
+    400082: Circle006
+    400084: Cylinder001
+    400086: Cylinder002
+    400088: Cylinder003
+    400090: Cylinder004
+    400092: Cylinder005
+    400094: Cylinder006
+    400096: Cylinder007
+    400098: Cylinder008
+    400100: Cylinder009
+    400102: Cylinder010
+    400104: 'Front Leg Left '
+    400106: Front Leg Left 001
+    400108: Front Leg Left 002
+    400110: Front Leg Left 003
+    400112: Front Leg Left 004
+    400114: Front Leg Right
+    400116: Front Leg Right001
+    400118: Front Leg Right002
+    400120: Front Leg Right003
+    400122: Front Leg Right004
+    400124: Jellymite_Body
+    400126: Middle_Left_Eye
+    400128: Middle_Right_Eye
+    400130: Top_Left_Eye
+    400132: Top_Right_Eye
+    2300000: Bottom_Left_Eye
+    2300002: Bottom_Right_Eye
+    2300004: Middle_Left_Eye
+    2300006: Middle_Right_Eye
+    2300008: Top_Left_Eye
+    2300010: Top_Right_Eye
+    3300000: Bottom_Left_Eye
+    3300002: Bottom_Right_Eye
+    3300004: Middle_Left_Eye
+    3300006: Middle_Right_Eye
+    3300008: Top_Left_Eye
+    3300010: Top_Right_Eye
+    4300000: Top_Left_Eye
+    4300002: Middle_Left_Eye
+    4300004: Bottom_Left_Eye
+    4300006: Top_Right_Eye
+    4300008: Middle_Right_Eye
+    4300010: Bottom_Right_Eye
+    4300012: Jellymite_Body
+    4300014: Cylinder001
+    4300016: Cylinder002
+    4300018: Cylinder003
+    4300020: Cylinder004
+    4300022: Cylinder005
+    4300024: Cylinder006
+    4300026: Cylinder007
+    4300028: Cylinder008
+    4300030: Cylinder009
+    4300032: Cylinder010
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Cylinder001
+    13700002: Cylinder002
+    13700004: Cylinder003
+    13700006: Cylinder004
+    13700008: Cylinder005
+    13700010: Cylinder006
+    13700012: Cylinder007
+    13700014: Cylinder008
+    13700016: Cylinder009
+    13700018: Cylinder010
+    13700020: Jellymite_Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: e9efc8b624accac4786a0e3dcc1794cb,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
